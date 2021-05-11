@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BloomWeather</string>
+
+    <string name="no_internet_connection">No internet connection. Please connect to internet</string>
+    <string name="slow_internet_connection">Slow internet connection</string>
+    <string name="cannot_connect_to_server">Something went wrong. We might have some problem please try again later.</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature">Temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="title">Oh Snap! No weather data to show.</string>
+    <string name="subtitle">Please select location to view weather of selected area.</string>
+
+</resources>

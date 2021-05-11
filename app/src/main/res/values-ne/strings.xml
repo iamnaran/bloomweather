@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BloomWeather</string>
+    <string name="no_internet_connection">इन्टरनेट कनेक्सन छैन !कृपया इन्टरनेटमा कनेक्ट गर्नुहोस्</string>
+    <string name="slow_internet_connection">इन्टरनेट निकै ढिलो भयो !</string>
+    <string name="cannot_connect_to_server">सर्भरमा जोडिएन ! कृपया इन्टरनेटमा कनेक्ट गर्नुहोस्</string>
+
+</resources>
