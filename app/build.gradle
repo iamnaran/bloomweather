@@ -15,11 +15,10 @@ android {
         versionCode 1
         versionName "1.0"
         multiDexEnabled true
-        buildConfigField 'String', 'BASE_URL', "\"https://api.openweathermap.org/\""
-//        buildConfigField 'String', 'MAPS_API_KEY', "\"AIzaSyBoOA6wz0XayigGxsR7sA0TdpVeo1hpiOo\""
 
-//      buildConfigField 'String', 'API_SECRET', "\"61y2UU1XME1GfVFa\""
-//      buildConfigField 'String', 'API_KEY', "\"guWQWTof\""
+        buildConfigField 'String', 'BASE_URL', "\"https://api.openweathermap.org/\""
+        buildConfigField 'String', 'MAPS_API_KEY', "\"AIzaSyBoOA6wz0Xa--GxsR7sA0TdpVeo1hpiOo\""
+        buildConfigField 'String', 'WEATHER_API_KEY', "\"6673de65be43a---3523f85a737b2a\""
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 

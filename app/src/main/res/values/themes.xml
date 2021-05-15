@@ -20,6 +20,7 @@
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/white</item>
         <item name="android:windowBackground">@drawable/background_drawable_splash</item>
+
     </style>
 
 
